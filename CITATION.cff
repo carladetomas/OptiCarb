@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this database, please cite the following work:"
+title: "3D nanostructure prediction of nanoporous carbons via gas adsorption"
+authors:
+  - family-names: Vallejos-Burgos
+    given-names: F.
+  - family-names: de Tomas
+    given-names: C.
+  - name: "et al."
+doi: 10.1016/j.carbon.2023.118431
+date-released: 2023-06-01
+version: "1.0"
+license: CC-BY-4.0
+repository-code: https://github.com/nandobike/3d-vis
+acknowledgements: >
+  C. de Tomas acknowledges funding from the European Union’s Horizon 2020 
+  research and innovation programme under the Marie Skłodowska-Curie 
+  grant agreement No. 101025294.
